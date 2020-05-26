@@ -1,0 +1,11 @@
+{
+  "runtimeOptions": {
+    "additionalProbingPaths": [
+      "C:\\Users\\jorer\\.dotnet\\store\\|arch|\\|tfm|",
+      "C:\\Users\\jorer\\.nuget\\packages"
+    ],
+    "configProperties": {
+      "Microsoft.NETCore.DotNetHostPolicy.SetAppPaths": true
+    }
+  }
+}
